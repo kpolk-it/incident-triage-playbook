@@ -1,34 +1,33 @@
-# Incident Report Template 
+# Incident Report Template
 
-**Incident ID:**
-**Date/Time Detected:**
-**Reported By:**
-**Severiry:**
+**Incident ID:**  
+**Date/Time Detected:**  
+**Reported By:**  
+**Severity:**  
 **Status:** (Open / Investigating / Escalated / Resolved)
 
-## Summary 
-Brief description of the incident. 
+## Summary
+Brief description of the incident.
 
-## Affected Assets / Users 
--
+## Affected Assets / Users
+- 
 
-## Timeline 
+## Timeline
 | Time | Event |
 |------|-------|
 |      |       |
 
-## Evidence Collected 
--
+## Evidence Collected
+- 
 
-## Actions Taken 
+## Actions Taken
 - 
 
 ## Root Cause (if known)
--
+- 
 
-## Resolution / Next Steps 
--
+## Resolution / Next Steps
+- 
 
 ## Lessons Learned / Follow-up
--
-
+- 

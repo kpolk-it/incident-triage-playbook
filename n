@@ -35,4 +35,3 @@ This repository is designed to support consistent, high-quality incident handlin
 ---
 
 **Author:** Kristen Polk  
-**Focus:** Cybersecurity | Incident Triage | Documentation | Escalation Support

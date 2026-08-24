@@ -1,19 +1,18 @@
-# Triage Notes Template 
+# Triage Notes Template
 
-**Ticket/Alert ID:**
-**Date/Time:**
-**Analyst:**
+**Ticket/Alert ID:**  
+**Date/Time:**  
+**Analyst:**  
 
-**summary**
-**Affected User/System:**
-**Severity:**
+**Summary:**  
+**Affected User/System:**  
+**Severity:**  
 
 **Key Observations:**
--
+- 
 
 **Evidence:**
--
+- 
 
-**Initial Assessment:** 
-**Next Action:** (Resolve / Monitor / Escalate) 
-
+**Initial Assessment:**  
+**Next Action:** (Resolve / Monitor / Escalate)

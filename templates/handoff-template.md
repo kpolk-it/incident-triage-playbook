@@ -1,14 +1,13 @@
-# Escalation Handoff Template 
+# Escalation Handoff Template
 
-**Ticket/Alert ID:**
-**Escalated By:**
-**Date/Time:**
-**Severify:**
+**Ticket/Alert ID:**  
+**Escalated By:**  
+**Date/Time:**  
+**Severity:**  
 
-**Summary of Issue:**
-**What Has Been Checked:**
-**Evidence Attached / Linked:**
-**Actions Already Taken:**
-*Specific Request for Reveiving Team:**
-**Additional Context:**
-
+**Summary of Issue:**  
+**What Has Been Checked:**  
+**Evidence Attached / Linked:**  
+**Actions Already Taken:**  
+**Specific Request for Receiving Team:**  
+**Additional Context:**  
